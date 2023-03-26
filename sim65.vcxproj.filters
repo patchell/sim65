@@ -149,4 +149,9 @@
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.md.txt">
+      <Filter>ReadMe</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
