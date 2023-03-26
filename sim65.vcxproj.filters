@@ -126,6 +126,9 @@
     <None Include="res\sim65.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="readme.md">
+      <Filter>ReadMe</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="sim65.rc">
@@ -148,10 +151,5 @@
     <Image Include="res\Toolbar256.bmp">
       <Filter>Resource Files</Filter>
     </Image>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="readme.md.txt">
-      <Filter>ReadMe</Filter>
-    </Text>
   </ItemGroup>
 </Project>

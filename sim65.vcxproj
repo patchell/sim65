@@ -226,6 +226,7 @@
     <ClCompile Include="VectorIRQ.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="readme.md" />
     <None Include="res\sim65.rc2" />
     <None Include="sim65.reg" />
   </ItemGroup>
@@ -238,9 +239,6 @@
     <Image Include="res\Toolbar.bmp" />
     <Image Include="res\Toolbar256.bmp" />
     <Image Include="res\userimages.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="readme.md.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
